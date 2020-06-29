@@ -1,0 +1,136 @@
+Hembras lactantes
+Machos lactantes
+Total lactantes (H+M)
+Hembras crecimiento 
+Machos crecimiento 
+Total H+M crecimiento 
+Novillas de vientre o aptas
+Machos de engorde o ceba
+Total novillas + machos engorde
+Total vacas
+Total  animales
+Total U.G.G.
+Total hembras
+Total machos
+Total reproductores
+Total vientres (Vacas + Novillas)
+Relación hembra apta/reproductores
+Relación hembras/vacas
+Edad descarte vacas
+Promedio edad vacas (Años)
+% Mortalidad reposición
+% Novillas infértiles
+% Mortalidad en reproductores
+% Mortalidad hembras/machos predest.
+% Mortalidad hembras predestete
+% Mortalidad hembras levante
+% Mortalidad novillas vientre
+% Mortalidad machos levante
+% Mortalidad machos engorde (ceba)
+% Mortalidad vacas/año
+% Tasa de extracción
+% Tasa de descarte (Vacas)
+% Tasa de reposición
+Total Natimortos (vacas + novillas)
+Total Abortos (vacas  + novillas)
+% Natimortos en vacas y novillas
+% Abortos en vacas y novillas
+% Otras gestaciones interrumpidas
+% Merma de crías (Gestantes + nacidos que no se destetaron)
+Natalidad general (Vacas/novillas)
+Total crias hembras muertas
+Total crias machos muertas
+Total vacas muertas
+Total nov. de vientre muertas
+Total nov. de levante muertas
+Total machos levante muertos
+Total machos engorde muertos
+Otras gestaciones interrumpidas
+Total nacimiento de machos
+Total nacimiento de hembras
+Edad apta en novillas
+Edad al 1er servicio
+Edad a la concepción
+Edad al 1er parto
+Intervalo apta concepción
+Duración de la gestación
+Partos en novillas
+Natimortos en novilas
+Abortos en novillas
+% Partos en novillas
+% Natimortos en novillas
+% Abortos en novillas
+% Otras gestaciones interrumpidas
+% Natalidad
+Total novillas para natalidad
+Intervalo parto primer servicio
+Intervalo servicio concepción (días)
+Intervalo entre partos (días)
+Intervalo entre 1er y 2do parto (días)
+Intervalo parto concepción
+Promedio de partos
+Partos en vacas
+% Natimortos en vacas
+% Abortos en vacas
+% Otras gestaciones interrumpidas
+% Natalidad
+Total vacas para natalidad
+Vida útil (años)
+En novillas
+En Vacas
+Intervalo entre servicios (días)
+Inventario vacas
+No. vacas en ordeño
+% Vacas en ordeño
+Litros/Vaca/Día (por controles en el año)
+Máxima producción (Litros)
+Días a la máxima producción
+% PICOS LECHE (0 - 40 días)
+Promedio leche (0 - 40 días)
+Promedio días (0/40 días)
+% PICOS LECHE (41 - 70 días)
+Promedio leche (41 - 70 días)
+Promedio días (41/70 días)
+% PICOS LECHE (71 - 110 días)
+Promedio leche (71 - 110 días)
+Promedio días (71/110 días)
+Litros leche por IEP
+Litros por ordeño
+Días en producción
+Leche al 1er ordeño
+Leche a 30 días
+A 60 días
+A 90 días
+A 120 días
+A 150 días
+A 180 días
+A 210 días
+A 240 días
+A 270 días
+A 305 días
+Total lactancias
+Duración de las lactancias (días)
+Días secos
+Litros por lactancia terminada
+Litros/Vaca/Día (lactancia terminada)
+Leche a 305 días
+Leche efectiva año
+Edad al destete
+Peso al destete
+Animales destetados
+Peso al destete (Hembras)
+Total hembras destetadas
+Peso al destete (Machos)
+Total machos destetados
+Peso promedio de vacas
+Peso apta (Novillas vientre)
+Producción de carne por IEP
+Peso al nacimiento (Machos)
+Peso al nacimiento (Hembras)
+Edad al destete (Machos)
+Edad al destete (Hembras)
+Peso hembras a 4 meses
+Peso hembras a 8 meses
+Peso hembras a 12 meses
+Peso hembras a 18 meses
+Peso hembras a 24 meses
